@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS / system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Temporary Word/Office lock files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Environment
+.env
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
